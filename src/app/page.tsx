@@ -174,7 +174,6 @@ export default function LandingPage() {
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/close-up-person-cleaning-car-exterior_23-2148194141.jpg"
       imageAlt="Car detailing tools and professional applying wax"
-      videoAriaLabel="Video of car detailing"
       mediaAnimation="blur-reveal"
       mediaPosition="right"
     />
@@ -213,6 +212,7 @@ export default function LandingPage() {
       <BlogCardTwo
       textboxLayout="default"
       useInvertedBackground={false}
+      animationType="blur-reveal"
       title="Nossa Galeria de Transformações"
       description="Veja o antes e depois, o cuidado com os detalhes e o brilho que entregamos em cada veículo que passa por nossas mãos. Qualidade visível em cada imagem."
       blogs={[
