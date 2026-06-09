@@ -105,13 +105,13 @@ export default function LandingPage() {
       animationType="blur-reveal"
       products={[
         {
-          id: "lavagem-simples",          name: "Lavagem Simples",          price: "Consulte-nos",          variant: "Limpeza básica exterior para o dia a dia.",          imageSrc: "http://img.b2bpic.net/free-photo/man-cleaning-his-car-self-service_329181-11843.jpg",          imageAlt: "Lavagem Simples de carro"},
+          id: "lavagem-simples",          name: "Lavagem Simples",          price: "Preço sob consulta",          variant: "Limpeza básica exterior para o dia a dia.",          imageSrc: "http://img.b2bpic.net/free-photo/man-cleaning-his-car-self-service_329181-11843.jpg",          imageAlt: "Lavagem Simples de carro"},
         {
-          id: "lavagem-completa",          name: "Lavagem Completa",          price: "Consulte-nos",          variant: "Limpeza profunda exterior e interior, com aspiração.",          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-washing-car_23-2148194125.jpg",          imageAlt: "Lavagem Completa de carro"},
+          id: "lavagem-completa",          name: "Lavagem Completa",          price: "Preço sob consulta",          variant: "Limpeza profunda exterior e interior, com aspiração.",          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-washing-car_23-2148194125.jpg",          imageAlt: "Lavagem Completa de carro"},
         {
-          id: "lavagem-interna",          name: "Lavagem Interna",          price: "Consulte-nos",          variant: "Foco na limpeza, aspiração e higienização do interior do veículo.",          imageSrc: "http://img.b2bpic.net/free-photo/man-vacuuming-car-seats_23-2149316438.jpg",          imageAlt: "Lavagem Interna de carro"},
+          id: "lavagem-interna",          name: "Lavagem Interna",          price: "Preço sob consulta",          variant: "Foco na limpeza, aspiração e higienização do interior do veículo.",          imageSrc: "http://img.b2bpic.net/free-photo/man-vacuuming-car-seats_23-2149316438.jpg",          imageAlt: "Lavagem Interna de carro"},
         {
-          id: "lavagem-externa",          name: "Lavagem Externa",          price: "Consulte-nos",          variant: "Foco na lavagem, enceramento e brilho da carroceria.",          imageSrc: "http://img.b2bpic.net/free-photo/bright-blue-foam-dark-water_23-2147798313.jpg",          imageAlt: "Lavagem Externa de carro"}
+          id: "lavagem-externa",          name: "Lavagem Externa",          price: "Preço sob consulta",          variant: "Foco na lavagem, enceramento e brilho da carroceria.",          imageSrc: "http://img.b2bpic.net/free-photo/bright-blue-foam-dark-water_23-2147798313.jpg",          imageAlt: "Lavagem Externa de carro"}
       ]}
       title="Nossos Serviços de Lavagem"
       description="Oferecemos uma variedade de serviços de lavagem para atender às necessidades do seu veículo, garantindo limpeza e brilho."
