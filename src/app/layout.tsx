@@ -11,8 +11,8 @@ import { Figtree } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Lava Rápido Sensacional Bar - Tratamento Premium para Seu Carro',
-  description: 'Qualidade e cuidado automotivo de luxo na Vila Matilde, São Paulo. Agende seu tratamento premium e deixe seu carro brilhando com acabamento impecável.',
+  title: "Lava Rápido Sensacional Bar - Tratamento Premium para Seu Carro ",
+  description: "Qualidade e cuidado automotivo de luxo na Vila Matilde, São Paulo. Agende seu tratamento premium e deixe seu carro brilhando com acabamento impecável.",
   keywords: ["lava rápido, estética automotiva, lavagem premium, detailing, Vila Matilde, São Paulo, carro, polimento, cristalização, higienização interna, limpeza de bancos"],
   openGraph: {
     "title": "Lava Rápido Sensacional Bar - Tratamento Premium para Seu Carro",
